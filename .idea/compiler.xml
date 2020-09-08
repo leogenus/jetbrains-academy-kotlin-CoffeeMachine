@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="1.8" />
+      <module name="Coffee_Machine-task_test" target="1.8" />
+      <module name="Problems-A_simple_calculator_main" target="1.8" />
+      <module name="Problems-A_simple_calculator_test" target="1.8" />
+      <module name="Problems-Application_as_a_class_main" target="1.8" />
+      <module name="Problems-Application_as_a_class_test" target="1.8" />
+      <module name="Problems-Area_printer_main" target="1.8" />
+      <module name="Problems-Area_printer_test" target="1.8" />
+      <module name="Problems-Balance_checker_main" target="1.8" />
+      <module name="Problems-Balance_checker_test" target="1.8" />
+      <module name="Problems-Bank_account_main" target="1.8" />
+      <module name="Problems-Bank_account_test" target="1.8" />
+      <module name="Problems-Board_game_basics__Game_main" target="1.8" />
+      <module name="Problems-Board_game_basics__Game_test" target="1.8" />
+      <module name="Problems-Board_game_basics__Player_main" target="1.8" />
+      <module name="Problems-Board_game_basics__Player_test" target="1.8" />
+      <module name="Problems-Car_main" target="1.8" />
+      <module name="Problems-Car_test" target="1.8" />
+      <module name="Problems-City_population_main" target="1.8" />
+      <module name="Problems-City_population_test" target="1.8" />
+      <module name="Problems-Collatz_conjecture_main" target="1.8" />
+      <module name="Problems-Collatz_conjecture_test" target="1.8" />
+      <module name="Problems-Companion_main" target="1.8" />
+      <module name="Problems-Companion_test" target="1.8" />
+      <module name="Problems-Complex_numbers_main" target="1.8" />
+      <module name="Problems-Complex_numbers_test" target="1.8" />
+      <module name="Problems-Composition_main" target="1.8" />
+      <module name="Problems-Composition_test" target="1.8" />
+      <module name="Problems-Currencies_main" target="1.8" />
+      <module name="Problems-Currencies_test" target="1.8" />
+      <module name="Problems-Currency_comparision_main" target="1.8" />
+      <module name="Problems-Currency_comparision_test" target="1.8" />
+      <module name="Problems-Danger_level_main" target="1.8" />
+      <module name="Problems-Danger_level_test" target="1.8" />
+      <module name="Problems-Date_and_time_formatting_main" target="1.8" />
+      <module name="Problems-Date_and_time_formatting_test" target="1.8" />
+      <module name="Problems-Difference_between_two_doubles_main" target="1.8" />
+      <module name="Problems-Difference_between_two_doubles_test" target="1.8" />
+      <module name="Problems-Direction_main" target="1.8" />
+      <module name="Problems-Direction_test" target="1.8" />
+      <module name="Problems-Harry_Potter_main" target="1.8" />
+      <module name="Problems-Harry_Potter_test" target="1.8" />
+      <module name="Problems-N-th_symbol_main" target="1.8" />
+      <module name="Problems-N-th_symbol_test" target="1.8" />
+      <module name="Problems-Patient_needs_a_doctor_main" target="1.8" />
+      <module name="Problems-Patient_needs_a_doctor_test" target="1.8" />
+      <module name="Problems-Playing_with_time_main" target="1.8" />
+      <module name="Problems-Playing_with_time_test" target="1.8" />
+      <module name="Problems-Point2D_main" target="1.8" />
+      <module name="Problems-Point2D_test" target="1.8" />
+      <module name="Problems-Reddit_main" target="1.8" />
+      <module name="Problems-Reddit_test" target="1.8" />
+      <module name="Problems-The_information_about_a_person_main" target="1.8" />
+      <module name="Problems-The_information_about_a_person_test" target="1.8" />
+      <module name="Problems-The_sum_of_elements_main" target="1.8" />
+      <module name="Problems-The_sum_of_elements_test" target="1.8" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="1.8" />
+      <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="1.8" />
+      <module name="Problems-Volume_of_a_cube_main" target="1.8" />
+      <module name="Problems-Volume_of_a_cube_test" target="1.8" />
+      <module name="Problems-Weather_comparison_main" target="1.8" />
+      <module name="Problems-Weather_comparison_test" target="1.8" />
+      <module name="Problems-Within_a_range_main" target="1.8" />
+      <module name="Problems-Within_a_range_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
